@@ -1,0 +1,44 @@
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #9999ff
+}
+h3 {
+  font-family: 'Pacifico', cursive;
+  color: #808080
+}
+p {
+  font-family: 'Lora', serif;
+  color: #808080
+}
+img {
+  height: 24%;
+  width: 24%;
+  object-fit:contain;
+}
+.outfitone {
+  border: #ffe6ff 4px solid;
+}
+.outfittwo {
+  border: #99ffbb 4px solid;
+}
+.outfitthree {
+  border: #ffe6ff 4px solid;
+}
+.outfitfour {
+  border: #99ffbb 4px solid;
+}
+.outfitfive {
+  border: #ffe6ff 4px solid;
+}
+.outfitsix {
+  border: #99ffbb 4px solid;
+}
+.outfitseven {
+  border: #ffe6ff 4px solid;
+}
+.outfiteight {
+  border: #99ffbb 4px solid;
+}
+body{
+  background-color: #e6ffff
+}
